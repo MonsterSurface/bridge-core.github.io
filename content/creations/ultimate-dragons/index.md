@@ -1,10 +1,10 @@
 ---
-title: 'Ultimate Dragons'
+title: 'Ultimate max'
 image: './main.jpg'
 excerpt: 'Breathe devastating fire from dragon-back and become a master of dragon flight with incredible precision and speed.'
 tags: [dragons, story, adventure]
 author: 'gamemode-one'
-download: 'https://www.minecraft.net/en-us/pdp/?id=c1c2dddd-9a10-4013-8adb-adf472560ad2'
+download: 'https://mlgaming.co.uk'
 ---
 
 Breathe devastating fire from dragon-back and become a master of dragon flight with incredible precision and speed. Explore a vast open-world full of quests, legendary bosses, and dragons to discover.
